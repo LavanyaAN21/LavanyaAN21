@@ -35,8 +35,9 @@
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lavanya-an)  
 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanya7215@email.com)  
 
- 
-<p align="right">
-  <img src=""C:\Users\lavan\Downloads\octocat-1741277546240.png" width="200px">
-</p>
+
+<div style="display: flex; justify-content: flex-end;">
+  <img src="C:\Users\lavan\Downloads\octocat-1741277546240.png" width="200px">
+</div>
+
 
