@@ -34,3 +34,8 @@
 🌐 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LavanyaAN21)  
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lavanya-an)  
 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanya7215@email.com)  
+
+<p align="right">
+  <img src="avatar.png" width="200px">
+</p>
+
