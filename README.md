@@ -1,5 +1,5 @@
-# Hey there, I’m Lavanaya AN👋☕Code, coffee, and curiosity!
-Welcome to my GitHub Profile! 🚀
+# Hey there, I’m Lavanaya AN👋
+***☕Code, coffee, and curiosity!*** Welcome to my GitHub Profile! 🚀
 
 ---
 ## ⭐️ About Me
@@ -21,11 +21,11 @@ Welcome to my GitHub Profile! 🚀
 
 ## 🏆 Certifications
 
-✅ **AngularJS & Node.js** - TECH FORTUNE <br>
-✅ **Python Complete Course for Beginners Certificate** - Udemy <br>
-✅ **Deep Dive into Python Libraries with ML Applications** - Aqmenz Automation Pvt. Ltd. <br>
-✅ **Getting Started with Azure AI Magic** -  Microsoft Learn Student Ambassador  <br>
-✅ **Artificial Intelligence** - Ethnotech Academic Solutions  <br>
+✅ **AngularJS & Node.js** - _TECH FORTUNE_ <br>
+✅ **Python Complete Course for Beginners Certificate** - _Udemy_ <br>
+✅ **Deep Dive into Python Libraries with ML Applications** - _Aqmenz Automation Pvt. Ltd._ <br>
+✅ **Getting Started with Azure AI Magic** -  _Microsoft Learn Student Ambassador_  <br>
+✅ **Artificial Intelligence** - _Ethnotech Academic Solutions_  <br>
 
 ---
 
